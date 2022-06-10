@@ -1,10 +1,10 @@
 # skill_assessment_with_spatial_attention
 
-**Code for EPIC@ICCV2019 paper**
+## Code for EPIC@ICCV2019 paper
 
-<u>Manipulation-skill assessment from videos with spatial attention network</u>
+Manipulation-skill assessment from videos with spatial attention network
 
-
+## Introduction
 
 Quatifying and ranking the action quality performed in videos by decaying the attention to the redundent background parts and modeling temporal relationships on key parts.
 
@@ -18,3 +18,16 @@ We proposed a novel RNN-based spatial attention model that considers accumulated
 | ![SonicDrawing_1_D5_Better](figs/SonicDrawing_1_D5_Better.gif) | >    | ![SonicDrawing_1_A1_Worse](figs/SonicDrawing_1_A1_Worse.gif) |
 
 The approach is validated on four existing datasets of hand manipulation tasks, including Surgery, Drawing, Cooking and Using Chopsticks.
+
+
+## Reference
+
+```
+@inproceedings{li2019manipulation,
+  title={Manipulation-skill assessment from videos with spatial attention network},
+  author={Li, Zhenqiang and Huang, Yifei and Cai, Minjie and Sato, Yoichi},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision Workshops},
+  pages={0--0},
+  year={2019}
+}
+```
