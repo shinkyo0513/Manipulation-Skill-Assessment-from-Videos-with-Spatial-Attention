@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.DS_Store
+
+.pth
+.pt 
+.pth.tar
+model_param/ResNet101_flow_pretrain.pth.tar
+model_param/ResNet101_rgb_pretrain.pth.tar
