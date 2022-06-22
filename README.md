@@ -1,4 +1,4 @@
-# Manipulation-Skill Assessment from Videos with Spatial Attention Network
+# Manipulation-Skill Assessment from Videos with Spatial Attention
 
 ## Code for EPIC@ICCV2019 paper
 
